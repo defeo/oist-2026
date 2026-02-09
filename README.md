@@ -4,13 +4,21 @@ Link: https://groups.oist.jp/tsvp/event/school-introduction-isogeny-based-crypto
 
 Soon here the exercises for the school.
 
+## Blackboard exercises
+
+### Day 1
+
+![](blackboard_pictures/2026-02-09-board1.jpg)
+
+![](blackboard_pictures/2026-02-09-board2.jpg)
+
 ## Sagemath exercises
 
 These [Jupyter/Sagemath](https://www.sagemath.org/) notebooks contain
 the tutorials and exercises for the "Cryptography" course of the
 school.
 
-- Day 1: [playing with elliptic curves and isogenies](2025-02-09-day1.ipynb)
+- Day 1: [playing with elliptic curves and isogenies](2026-02-09-day1.ipynb)
 
 ### Install Sagemath
 
