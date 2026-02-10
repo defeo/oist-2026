@@ -19,6 +19,7 @@ the tutorials and exercises for the "Cryptography" course of the
 school.
 
 - Day 1: [playing with elliptic curves and isogenies](2026-02-09-day1.ipynb)
+- Day 2: [isogenies in dimension 1 and 2](2026-02-10-day2.ipynb)
 
 ### Install Sagemath
 
