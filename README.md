@@ -12,6 +12,10 @@ Soon here the exercises for the school.
 
 ![](blackboard_pictures/2026-02-09-board2.jpg)
 
+### Day 2
+
+![](blackboard_pictures/2026-02-10.jpg)
+
 ## Sagemath exercises
 
 These [Jupyter/Sagemath](https://www.sagemath.org/) notebooks contain
@@ -20,6 +24,7 @@ school.
 
 - Day 1: [playing with elliptic curves and isogenies](2026-02-09-day1.ipynb)
 - Day 2: [isogenies in dimension 1 and 2](2026-02-10-day2.ipynb)
+- Day 3: [breaking SIDH](2026-02-12-day3.ipynb)
 
 ### Install Sagemath
 
